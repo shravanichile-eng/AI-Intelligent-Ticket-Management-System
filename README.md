@@ -5,7 +5,7 @@ Follow these steps to download, configure, and run the AI Help Desk Ticketing Sy
 ## 📸 Application Screenshots
 
 ### 1. Application Screen 1
-![Application Screen 1](<screenshots/Screenshot 2026-10-15 150517.png>)
+<img width="1535" height="687" alt="Screenshot 2026-10-15 145206" src="https://github.com/user-attachments/assets/e4843f2e-8a04-4cb5-96e0-cf6f09b0c366" />
 
 ### 2. Application Screen 2
 ![Application Screen 2](<screenshots/Screenshot 2026-10-15 145132.png>)
