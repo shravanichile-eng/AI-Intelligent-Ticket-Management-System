@@ -4,14 +4,12 @@ Follow these steps to download, configure, and run the AI Help Desk Ticketing Sy
 
 ## 📸 Application Screenshots
 
-### 1. Application Screen 1
 <img width="1535" height="687" alt="Screenshot 2026-10-15 145206" src="https://github.com/user-attachments/assets/e4843f2e-8a04-4cb5-96e0-cf6f09b0c366" />
+<img width="1531" height="682" alt="Screenshot 2026-10-15 145132" src="https://github.com/user-attachments/assets/20f5595e-0f7d-4823-b722-aa0162e0b72f" />
+<img width="1535" height="693" alt="Screenshot 2026-10-15 150037" src="https://github.com/user-attachments/assets/de194e63-dd40-4240-a9cf-2d5125075708" />
+<img width="1521" height="672" alt="Screenshot 2026-10-15 150356" src="https://github.com/user-attachments/assets/caea80db-a8c1-4dfb-80d7-038d58d46d6c" />
+<img width="1535" height="690" alt="Screenshot 2026-10-15 145350" src="https://github.com/user-attachments/assets/e35cc74d-7872-44f1-9872-ca3a0d160922" />
 
-### 2. Application Screen 2
-![Application Screen 2](<screenshots/Screenshot 2026-10-15 145132.png>)
-
-### 3. Application Screen 3
-![Application Screen 3](<screenshots/Screenshot 2026-10-15 145206.png>)
 
 ### Step 1: Install the Prerequisites
 
